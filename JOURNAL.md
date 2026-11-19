@@ -1,0 +1,4 @@
+- Idée (réservation de chambres) : Karim et Seif l'ont proposé au groupe
+- R1, 1re version : Karim et Seif
+- R1, 2e version : Paul, Tristan et Jeremy
+- R1 simplifié : Jeremy et Karim
